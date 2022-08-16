@@ -1,0 +1,160 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.126 seconds
+Platform assembly: C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\k1llsoone\Desktop\Kotey Adventure\Kotey Adventure_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'menu') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 7.228117 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.910691 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 367.
+Total: 1.298454 ms (FindLiveObjects: 0.017416 ms CreateObjectMapping: 0.492635 ms MarkObjects: 0.613617 ms  DeleteObjects: 0.157991 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.512850 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.262801 ms (FindLiveObjects: 0.034521 ms CreateObjectMapping: 0.020837 ms MarkObjects: 0.199355 ms  DeleteObjects: 0.007464 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.326756 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.226724 ms (FindLiveObjects: 0.026746 ms CreateObjectMapping: 0.020837 ms MarkObjects: 0.175097 ms  DeleteObjects: 0.003732 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.296899 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.217394 ms (FindLiveObjects: 0.025191 ms CreateObjectMapping: 0.020837 ms MarkObjects: 0.167632 ms  DeleteObjects: 0.003421 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.315249 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.218949 ms (FindLiveObjects: 0.025502 ms CreateObjectMapping: 0.019593 ms MarkObjects: 0.170120 ms  DeleteObjects: 0.003421 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.563544 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.358280 ms (FindLiveObjects: 0.028612 ms CreateObjectMapping: 0.021770 ms MarkObjects: 0.176341 ms  DeleteObjects: 0.131245 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.721225 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.264667 ms (FindLiveObjects: 0.036076 ms CreateObjectMapping: 0.019904 ms MarkObjects: 0.199977 ms  DeleteObjects: 0.007464 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.720491 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 412.
+Total: 0.233566 ms (FindLiveObjects: 0.027057 ms CreateObjectMapping: 0.019904 ms MarkObjects: 0.182250 ms  DeleteObjects: 0.003732 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.567899 ms
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 0.418304 ms (FindLiveObjects: 0.028612 ms CreateObjectMapping: 0.012129 ms MarkObjects: 0.195001 ms  DeleteObjects: 0.181939 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.690746 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 0.262801 ms (FindLiveObjects: 0.029234 ms CreateObjectMapping: 0.017416 ms MarkObjects: 0.209307 ms  DeleteObjects: 0.004976 ms)
+
+The referenced script on this Behaviour (Game Object 'menu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.372586 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.248805 ms (FindLiveObjects: 0.027990 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.201221 ms  DeleteObjects: 0.008397 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.436032 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.411773 ms (FindLiveObjects: 0.037009 ms CreateObjectMapping: 0.014928 ms MarkObjects: 0.197800 ms  DeleteObjects: 0.160790 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.176851 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.270576 ms (FindLiveObjects: 0.043229 ms CreateObjectMapping: 0.009641 ms MarkObjects: 0.207752 ms  DeleteObjects: 0.009330 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.063644 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.311629 ms (FindLiveObjects: 0.077129 ms CreateObjectMapping: 0.012129 ms MarkObjects: 0.212728 ms  DeleteObjects: 0.008086 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.920892 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.289547 ms (FindLiveObjects: 0.037009 ms CreateObjectMapping: 0.014617 ms MarkObjects: 0.227035 ms  DeleteObjects: 0.009952 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.482260 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.280528 ms (FindLiveObjects: 0.037631 ms CreateObjectMapping: 0.014306 ms MarkObjects: 0.217083 ms  DeleteObjects: 0.010574 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.906896 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.312873 ms (FindLiveObjects: 0.038564 ms CreateObjectMapping: 0.014617 ms MarkObjects: 0.249738 ms  DeleteObjects: 0.009019 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.203597 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.274308 ms (FindLiveObjects: 0.036387 ms CreateObjectMapping: 0.014306 ms MarkObjects: 0.213661 ms  DeleteObjects: 0.009330 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.209817 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 0.262490 ms (FindLiveObjects: 0.028923 ms CreateObjectMapping: 0.009641 ms MarkObjects: 0.214283 ms  DeleteObjects: 0.008708 ms)
+
+The referenced script on this Behaviour (Game Object 'menu') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.150104 ms
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 248.
+Total: 0.472419 ms (FindLiveObjects: 0.033899 ms CreateObjectMapping: 0.014306 ms MarkObjects: 0.250049 ms  DeleteObjects: 0.173230 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 67c -> priority: 1 
